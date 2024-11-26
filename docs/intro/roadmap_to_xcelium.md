@@ -185,4 +185,4 @@ This roadmap should give you a solid foundation for installing and using **Xceli
 
 ---
 
-[back](./getting-started.md)
+[back](./README.md)
