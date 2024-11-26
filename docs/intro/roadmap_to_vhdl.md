@@ -198,4 +198,4 @@ By following these steps, you'll build a strong foundation in VHDL and digital d
 
 ---
 
-[back](./getting-started.md)
+[back](./README.md)

@@ -146,4 +146,4 @@ By following these steps, you should be able to download, install, and use **Ins
 
 ---
 
-[back](./getting-started.md)
+[back](./README.md)
