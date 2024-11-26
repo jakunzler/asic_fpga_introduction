@@ -5,7 +5,7 @@
 ### **Step 1: Download the InstallScape Tool**
 
 1. **Visit the Download Page**:
-   - Based on the information provided, you need to download the **Linux** version of InstallScape.
+   - Download the **Linux** version of InstallScape from the [website](https://www.cadence.com/en_US/home/support/software-downloads.html).
 
 2. **Download the InstallScape for Linux**:
    - Download the **compressed tar file** for your platform by clicking the appropriate "Download" button for **Linux** (which is 315187200 bytes or ~300.59 MB).

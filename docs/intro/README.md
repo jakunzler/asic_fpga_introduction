@@ -154,9 +154,14 @@ If you’d like to contribute, check out [CONTRIBUTING.md](../../CONTRIBUTING.md
 ## 📄 Additional Documentation
 
 - Learn how to install the Cadence product management tool, [Install Scape](./install_scape_cadence_products.md).
+- Already installed Xcelium? Check out its [roadmap](roadmap_to_xcelium.md).
 - For a quick introduction to Verilog HDL, visit [Roadmap to Verilog](./roadmap_to_verilog.md).
 - For a quick introduction to VHDL HDL, visit [Roadmap to VHDL](./roadmap_to_vhdl.md).
-- [FPGA Tools](../references/fpga-tools.md).
+- See some recommended [FPGA Tools](../references/fpga-tools.md).
+- Are you searching for the theory behind digital circuits, find it [here](../references/README.md)
+- Let me guide you through thoughtful steps in carefully prepared [tutorials](../tutorials/README.md).
+- Lots of ideas and ready to launch circuits in the [examples directory](../../examples/README.md).
+- If you're in a hurry and want to jump right into the code, check the [src directory](../../src/README.md).
 
 ---
 
