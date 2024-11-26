@@ -182,3 +182,7 @@ This ensures that your simulation reflects the synthesized and implemented desig
 - **Script-Based Flow**: Writing synthesis, simulation, and implementation scripts in **TCL** is highly recommended for reproducibility and batch processing.
 
 This roadmap should give you a solid foundation for installing and using **Xcelium** alongside other Cadence tools for **simulation**, **synthesis**, and **implementation**.
+
+---
+
+[back](./getting-started.md)

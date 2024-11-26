@@ -153,7 +153,7 @@ Se você deseja contribuir, consulte o [CONTRIBUTING.md](CONTRIBUTING.md) para o
 
 ## 📄 Documentação Adicional
 
-- Veja como instalar a ferramenta de gerenciamento dos produtos Cadence, o [Install Scape](./install_scape_xcelium_cadence.md).
+- Veja como instalar a ferramenta de gerenciamento dos produtos Cadence, o [Install Scape](./install_scape_cadence_products.md).
 - Para uma rápida imersão na linguagem de descrição de hardware Verilog, acesse [Introdução ao Verilog](./roadmap_to_verilog.md).
 - Para uma rápida imersão na linguagem de descrição de hardware VHDL, acesse [Introdução ao VHDL](./roadmap_to_vhdl.md)
 - [Ferramentas para FPGA](../references/fpga-tools.md)

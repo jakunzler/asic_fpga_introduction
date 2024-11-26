@@ -195,3 +195,7 @@ end architecture;
 - **Synthesize for Hardware**: Use tools like Vivado or Quartus for FPGA implementation.
 
 By following these steps, you'll build a strong foundation in VHDL and digital design!
+
+---
+
+[back](./getting-started.md)

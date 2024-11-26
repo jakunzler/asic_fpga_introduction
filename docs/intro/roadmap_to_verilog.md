@@ -153,3 +153,7 @@ endmodule
 - **Experiment**: Explore more complex projects like ALUs and finite state machines as you grow more comfortable with Verilog.
 
 By following these steps, you'll build a strong foundation in Verilog HDL and hardware design!
+
+---
+
+[back](./getting-started.md)

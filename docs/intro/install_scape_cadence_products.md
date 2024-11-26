@@ -143,3 +143,7 @@ Now that **InstallScape** is ready, you can install your required Cadence produc
 - **Fast Installations**: InstallScape allows you to quickly install only the necessary components, making it more efficient than manually downloading and extracting full release media images.
 
 By following these steps, you should be able to download, install, and use **InstallScape** to manage your Cadence software installations on Linux effectively.
+
+---
+
+[back](./getting-started.md)
