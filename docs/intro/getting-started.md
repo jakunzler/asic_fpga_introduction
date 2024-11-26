@@ -153,7 +153,7 @@ Se você deseja contribuir, consulte o [CONTRIBUTING.md](CONTRIBUTING.md) para o
 
 ## 📄 Documentação Adicional
 
-- [Introdução ao Verilog](docs/references/index.md)
+- [Introdução ao Verilog](../references/)
 - [Ferramentas para FPGA](docs/references/fpga-tools.md)
 
 ---
