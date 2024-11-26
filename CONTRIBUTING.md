@@ -105,6 +105,6 @@ Ao contribuir para este projeto, você deve concordar em respeitar os princípio
 
 ## 📞 Dúvidas ou Suporte
 
-Se você tiver dúvidas sobre como contribuir, entre em contato abrindo uma **issue** no repositório ou envie um e-mail para [k_jonasaugusto@ufg.br].
+Se você tiver dúvidas sobre como contribuir, entre em contato abrindo uma **issue** no repositório ou envie um e-mail para [e-mail](k_jonasaugusto@ufg.br).
 
 Obrigado por contribuir! 😊
