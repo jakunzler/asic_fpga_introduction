@@ -18,7 +18,7 @@ Este repositório contém:
 
 ## 📘 Documentação
 
-Acesse a [documentação completa](docs/getting-started.md) para saber como começar.
+Acesse a [documentação completa](docs/intro/getting-started.md) para saber como começar.
 
 ## 🛠️ Ferramentas Utilizadas
 
