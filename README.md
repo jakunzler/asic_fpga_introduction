@@ -1,35 +1,38 @@
-# ASIC e FPGA Development
+# ASIC and FPGA Development
 
-Bem-vindo ao repositório de códigos e conteúdos relacionados ao desenvolvimento de ASICs e FPGAs.
+Welcome to the repository of codes and resources related to ASIC and FPGA development.
 
-## 🚀 Introdução
+## 🚀 Introduction
 
-Este repositório contém:
+This repository contains:
 
-- **Códigos-fonte** para ASICs e FPGAs.
-- **Testbenches** para validação.
-- **Documentação** e tutoriais para ferramentas como ModelSim, Quartus, Xilinx Vivado, etc.
+- **Source codes** for ASICs and FPGAs.
+- **Testbenches** for validation.
+- **Documentation** and tutorials for tools like ModelSim, Quartus, Xilinx Vivado, and more.
 
-## 📂 Estrutura do Repositório
+## 📂 Repository Structure
 
-- **`docs/`**: Documentação detalhada.
-- **`src/`**: Códigos HDL para ASIC e FPGA.
-- **`examples/`**: Exemplos práticos de projetos.
+- **`docs/`**: Detailed documentation.
+- **`src/`**: HDL codes for ASIC and FPGA.
+- **`examples/`**: Practical project examples.
 
-## 📘 Documentação
+## 📘 Documentation
 
-Acesse a [documentação completa](docs/intro/README.md) para saber como começar.
+Access the [full documentation](docs/intro/README.md) to get started.
 
-## 🛠️ Ferramentas Utilizadas
+## 🛠️ Tools Used
 
+- **Xcelium**
+- **Genus**
+- **Innovus**
 - **ModelSim**
-- **Xilinx Vivado**
 - **Quartus Prime**
+- **Xilinx Vivado**
 
-## 🤝 Contribuindo
+## 🤝 Contributing
 
-Contribuições são bem-vindas! Consulte as [diretrizes de contribuição](CONTRIBUTING.md).
+Contributions are welcome! Check out the [contribution guidelines](CONTRIBUTING.md).
 
-## 📄 Licença
+## 📄 License
 
-Este projeto está licenciado sob a [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE).

@@ -1,0 +1,79 @@
+# Compiled files
+*.o
+*.log
+*.out
+*.jou
+*.rpt
+*.wlf
+
+# Simulation and Testbench files
+simvision.*
+webtalk.*
+xsim.dir/
+*.vcd
+*.wdb
+*.pb
+*.dat
+*.ucdb
+transcript
+vsim.wlf
+
+# Vivado files
+*.bit
+*.bin
+*.dcp
+*.xml
+*.runs/
+*.cache/
+*.xpr
+*.hw/
+*.sdk/
+*.ip_user_files/
+*.sim/
+*.hwh
+
+# Quartus files
+*.qws
+*.qsf
+*.sof
+*.pof
+*.hexout
+*.pin
+*.summary
+*.rpt
+db/
+incremental_db/
+
+# Temporary and backup files
+*.tmp
+*.bak
+*.swp
+*~
+*.backup
+*.ipch
+*.idx
+*.obj
+
+# IDE-specific files
+.vscode/
+.idea/
+*.code-workspace
+
+# Python environment and cache
+__pycache__/
+*.pyc
+*.pyo
+*.env
+.venv/
+
+# System files
+.DS_Store
+Thumbs.db
+*.lock
+
+# Other generated files
+*.zip
+*.tar
+*.gz
+*.xz
+*.log
