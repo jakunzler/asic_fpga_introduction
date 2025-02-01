@@ -77,3 +77,6 @@ Thumbs.db
 *.gz
 *.xz
 *.log
+
+# Large Files
+quartus_installer/
