@@ -157,3 +157,4 @@ By following these steps, you'll build a strong foundation in Verilog HDL and ha
 ---
 
 [back](./README.md)
+
